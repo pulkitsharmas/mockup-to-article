@@ -1,0 +1,15 @@
+You've learned a lot about web development so far. I want you to take a moment to write down your thoughts about web development here. Answer the following questions:
+  * What new skills have you learned?
+  * What has been easy?
+  * What has been difficult?
+  * How have you used the problem solving strategies from the first project to overcome challenges so far?
+
+---
+
+Your response goes here!
+
+I have learned about the html structure and it's resemblence with the tree structure.
+I learned about various elements like the p, img, hr, sub, heading elements, br and various others.
+I learned how to translate mockups to html by formatting texts.
+It was not that hard what i expected it to be. However it was time consuming.
+I didn't give up! when i finished completing my translation of mockup, I ended up with some undesired output however with Continous refinement i came closer to mockup design.
